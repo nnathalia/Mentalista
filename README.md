@@ -1,6 +1,6 @@
 # Mentalista - Jogo de Adivinhação
 
-![Mentalista - Interface do jogo](image.png)
+![Mentalista - Interface do jogo](assets/img/image.png)
 
 ## 🧠 Sobre o Projeto
 
