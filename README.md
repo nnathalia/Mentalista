@@ -2,6 +2,9 @@
 
 ![Mentalista - Interface do jogo](assets/img/image.png)
 
+## 💻 Você pode acessar o projeto aqui
+ [Link do site](https://nnathalia.github.io/Mentalista/)
+
 ## 🧠 Sobre o Projeto
 
 **Mentalista** é um jogo interativo desenvolvido durante a **2ª aula da 7ª edição da Imersão Dev Alura**, na aula intitulada **"Mentalista"**. O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente pelo computador entre **1 e 1000**, usando até **15 tentativas**.
