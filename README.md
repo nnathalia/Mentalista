@@ -3,6 +3,7 @@
 ![Mentalista - Interface do jogo](assets/img/image.png)
 
 ## 💻 Você pode acessar o projeto aqui
+
  [Link do site](https://nnathalia.github.io/Mentalista/)
 
 ## 🧠 Sobre o Projeto
@@ -38,4 +39,4 @@ Este projeto foi criado para ensinar conceitos fundamentais de programação com
 - **CSS3** – Estilização visual (opcional)
 - **JavaScript** – Lógica do jogo (números aleatórios, laços, condições)
 
----
+
